@@ -46,7 +46,7 @@ body {
 .profile-pic {
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   object-fit: cover;
   margin-right: 20px;
   cursor: pointer;
